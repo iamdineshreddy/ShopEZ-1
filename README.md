@@ -1,6 +1,6 @@
 # ShopEZ — E-Commerce Platform
 
-> ShopEZ is your one-stop destination for effortless online shopping. With a user-friendly interface and a comprehensive product catalog, finding the perfect items has never been easier.
+> **ShopEZ** is your one-stop destination for effortless online shopping. With a user-friendly interface and a comprehensive product catalog, finding the perfect items has never been easier.
 
 ## 🚀 Tech Stack
 
