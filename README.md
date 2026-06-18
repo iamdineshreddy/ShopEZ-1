@@ -106,4 +106,4 @@ This project is for educational purposes.
 
 ## 👤 Author
 
-Sudeeksha
+Maddula Dinesh Reddy
